@@ -1,0 +1,193 @@
+WEBVTT
+
+00:03.890 --> 00:04.550
+Hello, guys.
+
+00:04.910 --> 00:08.540
+And this today I will show you how to install Anaconda on Windows.
+
+00:09.320 --> 00:15.620
+We open our browser, in my case Google Chrome type Anaconda and click on the first link.
+
+00:16.460 --> 00:19.730
+Let's go to the download section and let's go down.
+
+00:20.210 --> 00:26.030
+Make sure you have the version selected for your operating system and click the download button under
+
+00:26.030 --> 00:28.070
+Python version 3.7.
+
+00:28.700 --> 00:34.880
+The file has less than 500 megabytes, so we have to wait a moment until our files download it.
+
+00:35.330 --> 00:39.110
+During this time, we can see something about the Anaconda distribution.
+
+00:39.440 --> 00:45.980
+Anaconda is an open source environment and it's one of the easiest way to start working with Python.
+
+00:46.460 --> 00:51.560
+The platform puts emphasis on the working in the field of data science and machine learning.
+
+00:51.950 --> 00:57.500
+Anaconda contains a lot of libraries that are already included with the Anaconda distribution.
+
+00:57.950 --> 01:03.800
+Such libraries of NumPy pandas could learn TensorFlow, Seabourn and many more.
+
+01:04.460 --> 01:04.880
+Okay.
+
+01:05.120 --> 01:06.770
+However, file has been downloaded.
+
+01:06.920 --> 01:08.150
+We can run it now.
+
+01:16.240 --> 01:17.050
+Click next.
+
+01:17.500 --> 01:19.720
+Then accept the license agreement.
+
+01:20.730 --> 01:22.530
+Leave just me recommended.
+
+01:23.160 --> 01:24.150
+And click next.
+
+01:25.250 --> 01:26.480
+Leave the default path.
+
+01:27.260 --> 01:33.470
+Select the option app anaconda to my environment variable and click installer.
+
+01:34.430 --> 01:36.440
+Installation will take a while.
+
+01:45.290 --> 01:45.810
+Okay.
+
+01:45.830 --> 01:48.350
+Our installation has been successfully completed.
+
+01:48.650 --> 01:49.340
+Click next.
+
+01:49.550 --> 01:51.260
+Again next and finish.
+
+01:52.370 --> 01:54.800
+And now we can start our anaconda.
+
+01:55.080 --> 01:59.960
+Enter Anaconda in your search bar and click on Anaconda Navigator.
+
+02:05.400 --> 02:09.180
+The first running of the program takes a little longer than standard.
+
+02:18.420 --> 02:21.780
+Our Anaconda Navigator distribution have been launched.
+
+02:22.170 --> 02:23.820
+What we will use is Spider.
+
+02:24.270 --> 02:25.710
+Now we will run it.
+
+02:25.980 --> 02:26.790
+Click on launch.
+
+02:27.090 --> 02:28.940
+This is the version of Spider.
+
+02:28.950 --> 02:29.640
+3.2.
+
+02:29.670 --> 02:30.510
+3.6.
+
+02:33.230 --> 02:36.020
+This is what our program looks like by default.
+
+02:36.710 --> 02:38.840
+However, we will adjust it slightly.
+
+02:39.900 --> 02:48.690
+Let's click on the panel of preferences and set the font to 14 so it will be clearly seen in the videos.
+
+02:54.820 --> 02:56.650
+And we'll also change the theme.
+
+02:56.800 --> 02:58.750
+Let's go to the syntax coloring tab.
+
+02:58.750 --> 03:01.780
+And here we have a choice of several themes that we like.
+
+03:02.140 --> 03:05.350
+For example, I can choose Molokai or some other theme.
+
+03:05.890 --> 03:07.500
+I chose the vendor theme.
+
+03:07.510 --> 03:09.610
+It seems to me the most interesting.
+
+03:10.240 --> 03:11.620
+Then click Apply.
+
+03:12.400 --> 03:15.280
+Now we can have additional options in the editor.
+
+03:15.340 --> 03:16.870
+Here we can see all options.
+
+03:17.200 --> 03:21.190
+I think that another interesting option is the option in the advanced settings.
+
+03:21.190 --> 03:24.340
+Stop where we can add automatic closing quotes.
+
+03:27.050 --> 03:27.590
+And click.
+
+03:27.590 --> 03:28.030
+Okay.
+
+03:28.040 --> 03:30.020
+Let's see if our program works.
+
+03:30.440 --> 03:32.600
+Let's try Helloworld in Python.
+
+03:39.630 --> 03:42.780
+Now let's try to start the program with the green button.
+
+03:43.050 --> 03:45.840
+Click around and we see that our program works.
+
+03:46.170 --> 03:48.390
+That text have been printed to the council.
+
+03:49.020 --> 03:55.020
+We can comment this piece of code in a separate file and now we have two files that we can execute the
+
+03:55.020 --> 03:56.010
+code separately.
+
+03:56.460 --> 03:59.100
+Shortcut for this is saved plus enter.
+
+03:59.610 --> 04:00.300
+That's all.
+
+04:00.300 --> 04:01.710
+We are ready to go further.
+
+04:01.710 --> 04:02.760
+Thank you for watching.
+
+04:02.770 --> 04:03.210
+Feel.

@@ -1,0 +1,127 @@
+WEBVTT
+
+00:04.020 --> 00:04.800
+Hello, guys.
+
+00:04.890 --> 00:07.440
+After launching Spider, we seen The View.
+
+00:07.650 --> 00:10.440
+We'll briefly describe the layout of this program.
+
+00:10.740 --> 00:15.690
+Some of us may have a slightly different user interface due to recent program updates.
+
+00:16.140 --> 00:18.030
+I also said the Vanguard theme.
+
+00:18.300 --> 00:23.040
+You can do it in the tools preferences setup and through the preferred theme.
+
+00:23.460 --> 00:25.410
+I will stay with this because I like it.
+
+00:29.040 --> 00:32.550
+On the left, we have a window in which we can write our python code.
+
+00:33.390 --> 00:39.030
+On the right, we have a window with some additional information that facilitates working with the program.
+
+00:39.840 --> 00:44.250
+One of them is a variable explorer where we can see defined variables.
+
+00:44.610 --> 00:48.600
+This is very helpful, especially for beginners in Python.
+
+00:49.800 --> 00:56.280
+Another is file explorer eight to where we can view the current folders and files in our working directory.
+
+00:56.610 --> 00:59.760
+And below we have a console that will display our results.
+
+01:00.270 --> 01:06.630
+If you want to check our working directory, we can use the p w the print working directory command.
+
+01:07.140 --> 01:13.920
+The path to our working directory will be displayed, which is theophilus user slash username.
+
+01:14.580 --> 01:21.030
+This is the default path to my home directory and we have the same thing in the toolbar to change the
+
+01:21.030 --> 01:22.350
+working directory.
+
+01:22.380 --> 01:24.570
+We can do this in at least two ways.
+
+01:24.900 --> 01:31.260
+We can click on the folder icon and select the exact working directory or enter the path manually.
+
+01:31.560 --> 01:36.060
+Let's try to choose the directory where we want to have our five.
+
+01:37.080 --> 01:40.440
+I keep all the repositories in the rebels directory.
+
+01:42.990 --> 01:49.950
+If we go to the file Explorer, we can see the folders in our working directory and here we will create
+
+01:49.950 --> 01:53.280
+a directory in which we can store files about our records.
+
+01:53.820 --> 01:57.540
+Let's give the name Python, underscore curve and click.
+
+01:57.540 --> 01:57.990
+Okay.
+
+01:58.740 --> 02:00.540
+The directory has been created.
+
+02:00.570 --> 02:02.250
+This directory empty.
+
+02:02.760 --> 02:05.610
+We can see that the path name has been changed.
+
+02:05.790 --> 02:11.300
+If we now use the p.w dx command, we already have our catalog of Corus.
+
+02:11.760 --> 02:15.600
+I recommend you make up directory and store all five here.
+
+02:16.260 --> 02:19.890
+Now we will create the first file in our working directory.
+
+02:20.220 --> 02:23.070
+Right click, then new file.
+
+02:23.790 --> 02:25.770
+Then we give the name of our file.
+
+02:26.110 --> 02:29.430
+Zero one underscore enter dot p.
+
+02:29.910 --> 02:33.600
+P is the python file extension by default.
+
+02:33.630 --> 02:40.290
+A new window will open with our file, which is empty and saved in our working directory to feed the
+
+02:40.290 --> 02:41.290
+parent folder.
+
+02:41.310 --> 02:44.370
+We can click the up arrow to return.
+
+02:44.380 --> 02:48.060
+We can double click on the python under the characters directory.
+
+02:48.480 --> 02:49.170
+That's all.
+
+02:49.170 --> 02:50.550
+We are ready to go further.
+
+02:50.580 --> 02:52.080
+Thank you for watching, Feel.

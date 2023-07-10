@@ -1,0 +1,352 @@
+WEBVTT
+
+00:03.780 --> 00:07.260
+And let's go to the practical use of our Google Call up tool.
+
+00:08.010 --> 00:09.960
+Google CoLab consists of 12.
+
+00:10.530 --> 00:18.990
+We have two types of cells are called cell and text that we can at each fold by clicking here called
+
+00:18.990 --> 00:20.220
+for our tech cell.
+
+00:20.670 --> 00:24.690
+We can also add in by hovering in the center of the screen.
+
+00:31.300 --> 00:34.600
+If we don't need this, we can easily remove it.
+
+00:38.870 --> 00:41.270
+You can change their order, etc..
+
+00:41.660 --> 00:44.960
+We also have other options that are worth mentioning.
+
+00:46.750 --> 00:48.240
+Let's delete everything.
+
+00:49.450 --> 00:56.380
+We have an empty notebook to start a raffle with our coat and enter a simple called.
+
+00:57.430 --> 00:59.650
+Let's define the variable revenue.
+
+01:00.460 --> 01:01.390
+10,000.
+
+01:05.860 --> 01:11.380
+Then the variable tax 0.19 tax rate and income.
+
+01:11.950 --> 01:15.340
+It is equal to revenue multiplied by tax.
+
+01:19.760 --> 01:21.440
+And let's display it.
+
+01:21.530 --> 01:25.760
+Rounded gold saved plus enter the value have been displayed.
+
+01:26.810 --> 01:29.840
+We can also print it using that print function.
+
+01:30.830 --> 01:32.330
+Let's move to the next cell.
+
+01:32.420 --> 01:34.580
+Let's try to describe what we did.
+
+01:35.120 --> 01:40.010
+We will add a text at the very top and enter the header to edit.
+
+01:40.010 --> 01:45.110
+Also double click or press enter to add the edge free header.
+
+01:45.290 --> 01:49.840
+Enter the free characters hash and enter faith.
+
+01:53.060 --> 01:57.590
+If we go to the table of contents, we will have disaffection.
+
+01:57.950 --> 02:00.650
+If we create the next section, for example.
+
+02:00.650 --> 02:01.250
+Summary.
+
+02:09.080 --> 02:14.300
+We can see that the next section is created and we can navigate easily on the same level.
+
+02:14.840 --> 02:17.360
+Here we can also add more sections.
+
+02:18.620 --> 02:21.590
+We can always go to this table of contents here.
+
+02:22.220 --> 02:24.650
+Okay, we are closing the table of contents.
+
+02:24.950 --> 02:28.550
+Let's go back to our tool and now let's go to the examples.
+
+02:29.210 --> 02:35.690
+Now I'll show you how to import libraries in our environment for libraries that are in the Google call
+
+02:35.690 --> 02:36.560
+up environment.
+
+02:36.830 --> 02:38.480
+We do it in a standard way.
+
+02:38.870 --> 02:44.870
+We can execute the command import non-peak and b let's also display the library version.
+
+02:49.410 --> 02:51.150
+Sift love enter to execute.
+
+02:52.140 --> 02:54.450
+Carla provides the option of autocomplete.
+
+02:54.900 --> 02:56.190
+Let's see how it works.
+
+02:56.790 --> 03:01.530
+After entering and P, we have a handle on what we can use here.
+
+03:05.740 --> 03:13.030
+For example, we can enter a random and we also have more hands on the wall we can use, for example,
+
+03:13.030 --> 03:13.960
+around function.
+
+03:14.800 --> 03:19.570
+After opening the parenthesis, we also have information about the function.
+
+03:27.230 --> 03:33.980
+We can also get it by inserting a question mark and the running of the documentation will be displayed
+
+03:33.980 --> 03:35.090
+in a separate window.
+
+03:35.930 --> 03:36.720
+Let's move on.
+
+03:36.740 --> 03:39.500
+Let's see what to do if the library is not installed.
+
+03:40.160 --> 03:41.960
+We'll try to import the image.
+
+03:41.970 --> 03:47.060
+A library which we don't have here in Google call up environment.
+
+03:47.600 --> 03:48.830
+We have an error.
+
+03:48.830 --> 03:49.130
+No.
+
+03:49.130 --> 03:50.750
+Module name image i.
+
+03:52.120 --> 03:55.270
+What we have to do is to install the library.
+
+03:55.480 --> 04:00.060
+So enter exclamation mark, pip install Image II.
+
+04:00.580 --> 04:03.670
+Let's surround this command and we have to wait a moment.
+
+04:05.110 --> 04:10.930
+The library has been installed and we can now import it, import image AI.
+
+04:10.930 --> 04:13.900
+And so we see we have no error anymore.
+
+04:15.010 --> 04:18.080
+What is a nice feature of call up in case of error.
+
+04:18.100 --> 04:25.210
+We can quickly go to the Google and search for information about the error on the StackOverflow website.
+
+04:25.810 --> 04:32.440
+After clicking, we'll get Google search results where then we can quickly go to the problem we are
+
+04:32.440 --> 04:33.400
+interested in.
+
+04:33.970 --> 04:38.800
+Let's go back and move on to markdown language where you see some basic features.
+
+04:42.310 --> 04:44.050
+Let's add a new text file.
+
+04:44.350 --> 04:45.820
+We start with the font.
+
+04:59.330 --> 05:02.870
+If we want to italicize, we use the one asterisk.
+
+05:04.100 --> 05:07.670
+If we want to make the text bold, we use double asterisk.
+
+05:09.430 --> 05:13.900
+Remember as two spaces at the end of each line to go to the new line.
+
+05:14.530 --> 05:17.860
+We can also get it by adding to underscore, refine.
+
+05:18.580 --> 05:20.680
+If we want to pass a piece of code.
+
+05:22.020 --> 05:23.790
+We used the Berkeley character.
+
+05:26.900 --> 05:31.520
+If we want to pass a longer piece of code, we do this in this way.
+
+05:31.640 --> 05:33.740
+We pass free back to characters.
+
+05:41.620 --> 05:44.830
+If we want to end and we can do it in this way.
+
+05:54.020 --> 05:56.810
+To add a double indent, we add another sign.
+
+05:58.580 --> 06:01.550
+Next, let's see how to create an ordered list.
+
+06:18.550 --> 06:20.470
+To create an order placed.
+
+06:20.470 --> 06:22.390
+We put an asterisk symbol.
+
+06:36.620 --> 06:39.470
+Now I show you how to insert a link to our page.
+
+06:39.950 --> 06:42.770
+Let's go to google dot com and copy darling.
+
+06:46.860 --> 06:51.960
+Let's up a new text so the text will be displayed in a square brackets.
+
+06:54.990 --> 06:57.420
+And the page address is in the wrong bracket.
+
+06:57.990 --> 07:01.140
+After clicking, a new window will open with our link.
+
+07:06.580 --> 07:12.160
+If we want to attack the image, we can do it as follows and throw an exclamation mark.
+
+07:12.200 --> 07:18.310
+Then the square brackets put the text to be displayed and in into round brackets the link to the image
+
+07:18.790 --> 07:21.160
+will copy the link to the Python logo.
+
+07:24.600 --> 07:25.890
+Right click copy.
+
+07:25.890 --> 07:26.730
+Image Address.
+
+07:29.850 --> 07:30.960
+And posted here.
+
+07:32.880 --> 07:37.440
+Now I show you how to use mathematical equations using logic.
+
+07:38.010 --> 07:39.120
+Let's create a new text.
+
+07:39.120 --> 07:43.470
+So we pass mathematical formula and clothing to all our signs.
+
+07:43.950 --> 07:45.240
+Let's see how to do it.
+
+07:45.630 --> 07:47.160
+On the right, we have our preview.
+
+07:48.060 --> 07:49.680
+Let's make another example.
+
+07:49.950 --> 07:52.640
+Let's start with our fraction and the fun.
+
+07:52.650 --> 07:53.040
+Fine.
+
+08:19.270 --> 08:20.590
+To build a matrix.
+
+08:20.590 --> 08:22.270
+Let's see another example.
+
+08:22.690 --> 08:26.650
+We are building out two by two matrix backslash.
+
+08:26.710 --> 08:28.630
+Begin P matrix.
+
+08:29.350 --> 08:31.600
+Then we have elements of matrix.
+
+08:33.950 --> 08:34.940
+a11.
+
+08:40.590 --> 08:41.550
+A one, two.
+
+08:46.400 --> 08:48.650
+Go to the new line, double backslash.
+
+08:51.120 --> 08:51.750
+Two one.
+
+08:54.720 --> 08:55.500
+A total.
+
+09:02.170 --> 09:05.560
+And finish our matrix and B matrix.
+
+09:11.900 --> 09:13.160
+Let's see the tables.
+
+09:13.520 --> 09:15.260
+Let's build a simple table.
+
+09:15.260 --> 09:16.670
+Three columns, two rows.
+
+09:17.030 --> 09:18.410
+We start with headers.
+
+09:18.590 --> 09:23.090
+Call one vertical bar code or vertical bar code free.
+
+09:23.630 --> 09:27.830
+Then we pass dash does does vertical bar dash dash.
+
+09:27.830 --> 09:30.140
+That vertical bar doesn't touch that.
+
+09:30.890 --> 09:39.650
+And we go to the first row value on vertical bar wall to vertical bar wall free and they're like, throw.
+
+09:46.820 --> 09:49.230
+And we are ready to go that fall.
+
+09:49.250 --> 09:50.690
+We are ready to go further.
+
+09:50.720 --> 09:51.730
+Thank you for watching.
+
+09:51.740 --> 09:52.190
+Feel.

@@ -1,0 +1,190 @@
+WEBVTT
+
+00:03.430 --> 00:04.180
+Hello, guys.
+
+00:04.210 --> 00:07.660
+Now I show you how to install Anaconda Navigator on Linux.
+
+00:07.960 --> 00:10.270
+Specifically this going on.
+
+00:10.600 --> 00:12.130
+Let's open our browser.
+
+00:13.990 --> 00:18.390
+Enter how to install Anaconda on or want to kick the first link.
+
+00:18.400 --> 00:22.090
+And we have a list of commands that we have to follow step by step.
+
+00:23.020 --> 00:24.640
+Let's open the terminal.
+
+00:29.030 --> 00:29.860
+At the beginning.
+
+00:29.870 --> 00:31.820
+Let's go to the temp directory.
+
+00:33.290 --> 00:35.060
+Then we can list what is here.
+
+00:36.210 --> 00:43.260
+We start by downloading the installation file folder, copy the given command and paste it into the
+
+00:43.260 --> 00:43.920
+terminal.
+
+00:47.610 --> 00:50.370
+Click Enter during this time.
+
+00:50.370 --> 00:51.900
+Our file is downloading.
+
+00:51.900 --> 00:53.190
+We have to wait a moment.
+
+00:53.550 --> 00:58.440
+At this time, we can go for the next installation of depth and see what we will do next.
+
+00:58.770 --> 01:00.210
+Step three we can skip.
+
+01:00.630 --> 01:04.500
+Then we're on the bus script to install Anaconda environment.
+
+01:04.770 --> 01:09.930
+Then we accept the license terms, accept the default path where Anaconda will be installed.
+
+01:10.140 --> 01:14.220
+In example, home flashing of our flash anaconda free.
+
+01:14.850 --> 01:18.420
+Finally, activate the installation and then we can test that.
+
+01:18.420 --> 01:25.860
+The installation will also create our test environment for Python version three, then activate the
+
+01:25.860 --> 01:29.790
+created environment and finally launch Anaconda Navigator.
+
+01:30.360 --> 01:32.550
+Okay, we have the file downloaded.
+
+01:33.120 --> 01:35.310
+Now copy the next command and press.
+
+01:35.310 --> 01:35.880
+Enter.
+
+01:36.210 --> 01:37.170
+Press enter.
+
+01:38.040 --> 01:40.290
+Then we accept the license terms.
+
+01:40.860 --> 01:41.430
+Entry.
+
+01:41.430 --> 01:44.460
+If we confirm the default location.
+
+01:44.790 --> 01:45.060
+Hit.
+
+01:45.060 --> 01:45.570
+Enter.
+
+01:47.700 --> 01:52.410
+And I count up against things, though this process will also take a while.
+
+01:54.300 --> 01:54.680
+Okay.
+
+01:54.690 --> 01:56.460
+The installation will successful.
+
+01:56.640 --> 01:59.340
+Let's see if they can do list command works.
+
+02:05.410 --> 02:05.700
+Come on.
+
+02:05.740 --> 02:08.860
+Not found because we haven't yet activated the installation.
+
+02:09.160 --> 02:10.780
+We need to run this command.
+
+02:18.900 --> 02:21.180
+And let's execute Condor list.
+
+02:21.900 --> 02:27.150
+Now, all the library's installed in our base environment have been listed.
+
+02:29.720 --> 02:37.430
+We can now create an environment with a command conduct create wave flag that last name and name test
+
+02:37.430 --> 02:37.940
+band of.
+
+02:42.730 --> 02:45.820
+We create an environment and 30th.
+
+02:50.030 --> 02:54.460
+We can now activate the environment by entering conduct activities.
+
+02:54.500 --> 02:55.130
+Pandef.
+
+03:03.150 --> 03:05.200
+We feel that the name has been changed.
+
+03:05.220 --> 03:12.150
+We are in the test band environment and we can use the Condor list to list all the libraries installed
+
+03:12.150 --> 03:13.440
+in the environment.
+
+03:19.750 --> 03:26.440
+We don't have any so we can install in the example pandas library conda install pandas.
+
+03:31.230 --> 03:35.430
+This command will install the Pandas library and its dependencies.
+
+03:38.500 --> 03:39.460
+Accept the F.
+
+03:50.870 --> 03:53.750
+Now we can list all of our instant libraries.
+
+03:54.050 --> 03:59.360
+We can see that all the dependencies on which the library is based have been installed.
+
+04:00.200 --> 04:05.900
+Now to run Anaconda, navigate our program, we can run the Anaconda Navigator Command in the terminal.
+
+04:11.280 --> 04:16.930
+At this moment, we start the Anaconda Navigator program, and we can use this program as one window.
+
+04:21.850 --> 04:23.740
+Let's try running, Spider.
+
+04:23.770 --> 04:25.870
+It will start with the default settings.
+
+04:31.640 --> 04:32.050
+Okay?
+
+04:32.060 --> 04:32.580
+Nothing.
+
+04:32.600 --> 04:33.990
+We are ready to go further.
+
+04:34.010 --> 04:35.040
+Thank you for watching.
+
+04:35.060 --> 04:35.480
+Feel.
